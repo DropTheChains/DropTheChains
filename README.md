@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm DropTheChains!
 
-<!--
-**DropTheChains/DropTheChains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Student**
+- 💻 **Languages:** Java, Python
+- 🚀 **Project:** [Springboot-Vue-Forum](https://github.com/DropTheChains/Springboot-Vue-Forum)
+- 🌱 Always learning and building with Spring Boot & Vue.js
+- 📝 **Motto:** *You are young, don’t complain.*
+- 🌐 **Blog/Space:** [https://dropthechains.github.io/Chains-Space/](https://dropthechains.github.io/Chains-Space/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub!  
+Here you’ll find my journey as a developer, exploring backend and frontend technologies, and sharing what I learn along the way. Check out my main project above and visit my space for more insights and tutorials.
+
+Feel free to connect or collaborate!
